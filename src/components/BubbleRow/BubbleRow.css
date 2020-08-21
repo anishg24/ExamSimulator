@@ -1,0 +1,49 @@
+.bubble {
+    width: 25px;
+    height: 25px;
+    border-radius: 15px;
+    border: 2px solid #1FBED6;
+    background-color: white;
+    -webkit-appearance: none; /*to disable the default appearance of radio button*/
+    -moz-appearance: none;
+    cursor: pointer;
+}
+
+input[type="radio"]:focus { /*no need, if you don't disable default appearance*/
+    outline: none; /*to remove the square border on focus*/
+}
+
+.selected{ /*no need, if you don't disable default appearance*/
+    background-color: #1FBED6;
+}
+
+.selected ~ span:first-of-type {
+    color: white;
+}
+
+label span:first-of-type {
+    position: relative;
+    left: -17.5px;
+    top: -8px;
+    font-size: 15px;
+    text-align: center;
+    color: #1FBED6;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+}
+
+label {
+    margin: -4px;
+}
+
+.question-number {
+    position: relative;
+    text-align: center;
+    bottom: 4px;
+    font-size: 25px;
+    padding-right: 4px;
+    color: grey;
+}

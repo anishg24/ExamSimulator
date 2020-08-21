@@ -1,0 +1,23 @@
+.content {
+    background-color: #fff;
+    padding: 24px;
+    min-height: 280px;
+}
+
+.timer-text {
+    color: white;
+    cursor: pointer;
+    text-align: right;
+}
+
+.timer-menu {
+    cursor: pointer;
+}
+
+.active {
+    background-color: forestgreen !important;
+}
+
+.not-active {
+    background-color: red !important;
+}
