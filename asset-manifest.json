@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ExamSimulator/static/css/main.5313254a.chunk.css",
+    "main.js": "/ExamSimulator/static/js/main.441190b1.chunk.js",
+    "main.js.map": "/ExamSimulator/static/js/main.441190b1.chunk.js.map",
+    "runtime-main.js": "/ExamSimulator/static/js/runtime-main.ba5b2bb2.js",
+    "runtime-main.js.map": "/ExamSimulator/static/js/runtime-main.ba5b2bb2.js.map",
+    "static/css/2.04ff9426.chunk.css": "/ExamSimulator/static/css/2.04ff9426.chunk.css",
+    "static/js/2.3191d390.chunk.js": "/ExamSimulator/static/js/2.3191d390.chunk.js",
+    "static/js/2.3191d390.chunk.js.map": "/ExamSimulator/static/js/2.3191d390.chunk.js.map",
+    "index.html": "/ExamSimulator/index.html",
+    "precache-manifest.0090abb108e9291d0bc38b960be82e5d.js": "/ExamSimulator/precache-manifest.0090abb108e9291d0bc38b960be82e5d.js",
+    "service-worker.js": "/ExamSimulator/service-worker.js",
+    "static/css/2.04ff9426.chunk.css.map": "/ExamSimulator/static/css/2.04ff9426.chunk.css.map",
+    "static/css/main.5313254a.chunk.css.map": "/ExamSimulator/static/css/main.5313254a.chunk.css.map",
+    "static/js/2.3191d390.chunk.js.LICENSE.txt": "/ExamSimulator/static/js/2.3191d390.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba5b2bb2.js",
+    "static/css/2.04ff9426.chunk.css",
+    "static/js/2.3191d390.chunk.js",
+    "static/css/main.5313254a.chunk.css",
+    "static/js/main.441190b1.chunk.js"
+  ]
+}
