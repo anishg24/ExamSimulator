@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/ExamSimulator/static/css/main.c82d9f03.chunk.css",
-    "main.js": "/ExamSimulator/static/js/main.b14318b1.chunk.js",
-    "main.js.map": "/ExamSimulator/static/js/main.b14318b1.chunk.js.map",
+    "main.js": "/ExamSimulator/static/js/main.5b8f8cb2.chunk.js",
+    "main.js.map": "/ExamSimulator/static/js/main.5b8f8cb2.chunk.js.map",
     "runtime-main.js": "/ExamSimulator/static/js/runtime-main.ba5b2bb2.js",
     "runtime-main.js.map": "/ExamSimulator/static/js/runtime-main.ba5b2bb2.js.map",
     "static/css/2.04ff9426.chunk.css": "/ExamSimulator/static/css/2.04ff9426.chunk.css",
-    "static/js/2.ee2599d0.chunk.js": "/ExamSimulator/static/js/2.ee2599d0.chunk.js",
-    "static/js/2.ee2599d0.chunk.js.map": "/ExamSimulator/static/js/2.ee2599d0.chunk.js.map",
+    "static/js/2.b6c8147a.chunk.js": "/ExamSimulator/static/js/2.b6c8147a.chunk.js",
+    "static/js/2.b6c8147a.chunk.js.map": "/ExamSimulator/static/js/2.b6c8147a.chunk.js.map",
     "index.html": "/ExamSimulator/index.html",
-    "precache-manifest.eb769a137de116a7e9f879e9aa71f462.js": "/ExamSimulator/precache-manifest.eb769a137de116a7e9f879e9aa71f462.js",
+    "precache-manifest.c4b3629b6bad65a6b47d5f45ff1e1762.js": "/ExamSimulator/precache-manifest.c4b3629b6bad65a6b47d5f45ff1e1762.js",
     "service-worker.js": "/ExamSimulator/service-worker.js",
     "static/css/2.04ff9426.chunk.css.map": "/ExamSimulator/static/css/2.04ff9426.chunk.css.map",
     "static/css/main.c82d9f03.chunk.css.map": "/ExamSimulator/static/css/main.c82d9f03.chunk.css.map",
-    "static/js/2.ee2599d0.chunk.js.LICENSE.txt": "/ExamSimulator/static/js/2.ee2599d0.chunk.js.LICENSE.txt"
+    "static/js/2.b6c8147a.chunk.js.LICENSE.txt": "/ExamSimulator/static/js/2.b6c8147a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ba5b2bb2.js",
     "static/css/2.04ff9426.chunk.css",
-    "static/js/2.ee2599d0.chunk.js",
+    "static/js/2.b6c8147a.chunk.js",
     "static/css/main.c82d9f03.chunk.css",
-    "static/js/main.b14318b1.chunk.js"
+    "static/js/main.5b8f8cb2.chunk.js"
   ]
 }
